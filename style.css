@@ -1,0 +1,43 @@
+body{
+    margin-top: 0px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    height: 300px;
+    margin-top: -22px;
+    background-size: cover;
+    background-image: url(RurqKDM.jpeg);
+    text-align: center;
+    color: aliceblue;
+}
+.g{
+    border-radius: 5px;
+    background-color: blue;
+    width: 100px;
+    margin-left: 710px;
+}
+p{
+    padding-top: 90px;
+    padding: 10px;
+    text-align: center;
+}
+.matn1{
+    border: 2px;
+    display: inline-block;
+    margin: 5px;
+    background-color: white;
+    width: 250px;
+    height: 120px;
+    margin: 20px;
+}
+.matn{
+    text-align: center;
+}
+h1{
+    padding-top: 70px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+}
